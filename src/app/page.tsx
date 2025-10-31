@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -108,7 +108,6 @@ export default function Page() {
               role: "CEO",
               company: "TechCorp International",
               rating: 5,
-              testimonial: "Exceptional service and luxury accommodations. The attention to detail was remarkable, and the staff went above and beyond to ensure our stay was perfect.",
               imageSrc: "https://images.pexels.com/photos/8425032/pexels-photo-8425032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Sarah Mitchell"
             },
@@ -118,7 +117,6 @@ export default function Page() {
               role: "Honeymooners",
               company: "Anniversary Stay",
               rating: 5,
-              testimonial: "Our anniversary stay was absolutely magical. The suite was stunning, the dining was exquisite, and every moment felt special. Highly recommended!",
               imageSrc: "https://images.pexels.com/photos/6181080/pexels-photo-6181080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Michael and Elena Chen"
             },
@@ -128,7 +126,6 @@ export default function Page() {
               role: "Business Executive",
               company: "GlobalFinance Ltd",
               rating: 5,
-              testimonial: "Perfect for business travel. The facilities are top-notch, the location is ideal, and the business center exceeded all expectations.",
               imageSrc: "https://images.pexels.com/photos/5716037/pexels-photo-5716037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of David Rodriguez"
             },
@@ -138,7 +135,6 @@ export default function Page() {
               role: "Family Vacation",
               company: "Weekend Getaway",
               rating: 5,
-              testimonial: "Our family vacation was unforgettable. The kids loved the amenities, and we appreciated the thoughtful touches throughout our stay.",
               imageSrc: "https://images.pexels.com/photos/34519519/pexels-photo-34519519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Jennifer Thompson"
             }
